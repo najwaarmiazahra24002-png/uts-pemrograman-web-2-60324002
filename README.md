@@ -44,13 +44,13 @@ Fitur utama:
 
 ## Struktur Folder
 uts_60324002/
-├── config/
-│   └── database.php
-├── index.php
-├── create.php
-├── edit.php
-├── delete.php
-└── README.md
+─ config/
+ ─ database.php
+─ index.php
+─ create.php
+─ edit.php
+─ delete.php
+─ README.md
 
 ---
 
